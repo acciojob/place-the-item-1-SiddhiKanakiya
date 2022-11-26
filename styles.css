@@ -1,2 +1,17 @@
-
 /* Your CSS Code here. */
+
+body{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+flex-direction: row;
+row-gap: 10px;
+
+}
+
+/* .box{
+    height:100px ;
+    width: 500px;
+    background-color: blue;
+} */
+
